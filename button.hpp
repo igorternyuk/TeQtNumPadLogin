@@ -3,6 +3,8 @@
 
 #include <QPushButton>
 
+#define BTN_SIZE 100
+
 class Button : public QPushButton
 {
     Q_OBJECT

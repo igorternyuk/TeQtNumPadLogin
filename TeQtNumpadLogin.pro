@@ -21,5 +21,5 @@ HEADERS  += numpadlogindialog.hpp \
     mainwindow.hpp \
     button.hpp
 
-FORMS    += numpadlogindialog.ui \
+FORMS    += \
     mainwindow.ui

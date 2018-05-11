@@ -1,5 +1,5 @@
 #include "button.hpp"
-#define BTN_SIZE 100
+
 #define POWDER_BLUE "#b0e0e6"
 
 Button::Button(QWidget *parent)
